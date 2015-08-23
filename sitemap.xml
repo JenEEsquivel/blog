@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://jeneesquivel.github.io/blog/blog/2015/08/21/tenth-week-blog-post/</loc>
+    <lastmod>2015-08-21T20:50:15-05:00</lastmod>
+  </url>
+  <url>
     <loc>http://jeneesquivel.github.io/blog/blog/2015/08/10/second-week-blog-post/</loc>
     <lastmod>2015-08-10T20:49:09-05:00</lastmod>
   </url>
   <url>
     <loc>http://jeneesquivel.github.io/blog/blog/2015/08/10/first-post/</loc>
     <lastmod>2015-08-10T16:47:42-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://jeneesquivel.github.io/blog/blog/2015/08/10/Ninth-Week-Blog/</loc>
+    <lastmod>2015-08-10T00:00:00-05:00</lastmod>
   </url>
   <url>
     <loc>http://jeneesquivel.github.io/blog/blog/2015/08/10/Ninth-Week-Blog/</loc>
@@ -49,8 +57,5 @@
   </url>
   <url>
     <loc>http://jeneesquivel.github.io/blog/</loc>
-  </url>
-  <url>
-    <loc>http://jeneesquivel.github.io/blog/posts/2/</loc>
   </url>
 </urlset>
