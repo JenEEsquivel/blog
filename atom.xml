@@ -4,7 +4,7 @@
   <title><![CDATA[Jennifer Esquivel]]></title>
   <link href="http://jeneesquivel.github.io/blog/atom.xml" rel="self"/>
   <link href="http://jeneesquivel.github.io/blog/"/>
-  <updated>2015-08-25T11:08:33-05:00</updated>
+  <updated>2015-08-25T12:08:31-05:00</updated>
   <id>http://jeneesquivel.github.io/blog/</id>
   <author>
     <name><![CDATA[Jennifer Esquivel]]></name>
@@ -19,15 +19,6 @@
     <updated>2015-08-21T20:50:15-05:00</updated>
     <id>http://jeneesquivel.github.io/blog/blog/2015/08/21/tenth-week-blog-post</id>
     <content type="html"><![CDATA[<p>Only one week left?  It&rsquo;s hard to believe.  Although it was sometimes very difficult, I have learned more than I ever expected from YWeb Academy.  Among many other things, this week we have been working on our group projects.  My group is creating an interactive website to help Spanish speakers learn HTML tags by providing English and Spanish translations as well as mnemonics, contextual and images to aid in memorization.  We intend for our app to allow users to contribute by adding additional definitions and information in the future.  This week on Thursday, I participated in the Ruby on Rails workshop and built a small app (on Heroku).  That night I went to Hype Harvest for YWeb Academy and finally I attended the Madison + Ruby Conference, which was great.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Second Week Blog Post]]></title>
-    <link href="http://jeneesquivel.github.io/blog/blog/2015/08/10/second-week-blog-post/"/>
-    <updated>2015-08-10T20:49:09-05:00</updated>
-    <id>http://jeneesquivel.github.io/blog/blog/2015/08/10/second-week-blog-post</id>
-    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
@@ -48,9 +39,9 @@
   
   <entry>
     <title type="html"><![CDATA[Week Seven Blog]]></title>
-    <link href="http://jeneesquivel.github.io/blog/blog/2015/08/03/seventh-week-blog-post/"/>
-    <updated>2015-08-03T20:50:32-05:00</updated>
-    <id>http://jeneesquivel.github.io/blog/blog/2015/08/03/seventh-week-blog-post</id>
+    <link href="http://jeneesquivel.github.io/blog/blog/2015/07/27/seventh-week-blog-post/"/>
+    <updated>2015-07-27T20:50:32-05:00</updated>
+    <id>http://jeneesquivel.github.io/blog/blog/2015/07/27/seventh-week-blog-post</id>
     <content type="html"><![CDATA[<p>I decided to do (one of) my &ldquo;teach the class something&rdquo; project on illustrating ideas and taking sketchnotes.    Often I hear people say, &ldquo;I can&rsquo;t draw&rdquo; or &ldquo;I&rsquo;m not an artist.&rdquo;  First, I want people to realize that they CAN learn to draw and feel confident about expressing themselves artistically.  Anyone can draw.  If people know techniques and practice, almost anyone can learn to draw realistically.  But drawing doesn&rsquo;t need to be fine art.  What I would like to teach the class is how to literally illustrate ideas and why it is important.</p>
 
 <p>75% of our information intake is visual (citation: some online video).  I don&rsquo;t know what that means, exactly.  What about blind people?  Touch?  Smell?  I need to check that statistic.  As you may know, 58.7% of statistics are made up on the spot.  (That&rsquo;s what I thought sounded like a very specific percentage, anyway.)  The point is that sketching is very useful:  in meetings, for brainstorming, when talking with clients about projects, to explain something that is hard to put into words.  A picture is worth 1000 words, so why not sketch out some of our thoughts and ideas?  Additionally, drawing and reading sketchnotes uses different parts of the brain.  Learning to &ldquo;Think Visually&rdquo; can open up creative energy, make connections, and come up with new or innovative ideas that you wouldn&rsquo;t have otherwise thought of&hellip;</p>
@@ -210,10 +201,19 @@
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[Second Week Blog Post]]></title>
+    <link href="http://jeneesquivel.github.io/blog/blog/2015/06/24/second-week-blog-post/"/>
+    <updated>2015-06-24T20:49:09-05:00</updated>
+    <id>http://jeneesquivel.github.io/blog/blog/2015/06/24/second-week-blog-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Welcome.]]></title>
-    <link href="http://jeneesquivel.github.io/blog/blog/2015/06/26/first-week-blog-post/"/>
-    <updated>2015-06-26T20:48:45-05:00</updated>
-    <id>http://jeneesquivel.github.io/blog/blog/2015/06/26/first-week-blog-post</id>
+    <link href="http://jeneesquivel.github.io/blog/blog/2015/06/21/first-week-blog-post/"/>
+    <updated>2015-06-21T20:48:45-05:00</updated>
+    <id>http://jeneesquivel.github.io/blog/blog/2015/06/21/first-week-blog-post</id>
     <content type="html"><![CDATA[<p>This is my first blog entry.  I am Jennifer E Esquivel&ndash;a student at the YWeb Academy and this is the last day of week one.  I can&rsquo;t believe how much we have learned in such a short time.
 I will add to my blog weekly. This first one is short.</p>
 
