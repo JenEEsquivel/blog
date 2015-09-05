@@ -1,5 +1,10 @@
-#Ninth Blog Entry:  Time is flying and I'm now *actually* having fun!  
-
+---
+layout: post
+title: "Time is flying and class is *actually* fun!"
+date: 2015-08-03 20:50:15 -0500
+comments: true
+categories: 
+---
 I am writing this week's blog at the beginning of the week (Sunday morning, actually).  This will be one more thing to check off the 'to do' list and free up my time for other projects.  I want to make sure that I have a blog submitted early so that I can devote my attention this week to my porfolio website and learning more JQuery, for example.  ]
 
 I am really loving creating things (pages from scratch) with html and css.  It is exciting to see how pages--almost magically-- render, sometimes even with just tiny changes in the source code.  I feel a little like a kid, wide-eyed and in awe of something and surprised myself with something I made.  Yep, I did that all by myself.  I did so much code experimentation (adding every possible fancy code idea, trick and thing I came across) that I finally decided on the design and feel of my page (the opposite of all the flashy things I played around with.) I started over.  Clear.  Simple.  To the point.  The process of getting there was fun, though.  I still have lots to polish and bugFixing to do.  I need things to be more clear in my mind, but I have no doubt that I will get there.  Plus, I now know that I will enjoy learning, doing and getting there.  Now that things are all starting to come together more, I enjoy this course more each day.  

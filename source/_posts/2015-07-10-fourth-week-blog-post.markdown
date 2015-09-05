@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "Fourth Week Blog Post"
+title: "Week Four: the Code of My Dreams"
 date: 2015-07-10 20:49:54 -0500
 comments: true
 categories: 
 ---
-#Week Four
-
 This is my fourth week's blog entry.  At this point, I have started to dream about code sometimes.  I find myself solving JavaScript problems as they appear in my dreams.  I remember when I first learned Spanish, I knew I was fairly fluent when I started dreaming *in* Spanish.  However, if I start dreaming *in* command-line, CSS or JavaScript, I guess I will have to redefine (literally and figuratively) my understanding of reprograming my mind.  
 
 In this week's mock-Scrum workshop, I learned a ton.  My group developed a desktop application from concept to release.  Ours was a to do list for completing office tasks, with extra features and incentives.  The concept was for existing employees at a business to have incentives to do miscellaneous office tasks so that the owner of the business wouldn't need to hire another salaried employee as an office manager to do the tasks.  To distinguish our app from existing ones, we decided that tasks would have a point value assigned to them and that those points would be redeemed for some incentive (decided upon by the management/administration.)
