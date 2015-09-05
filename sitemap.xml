@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://jeneesquivel.github.io/blog/blog/2015/09/04/final-ywebca-blog-post/</loc>
+    <lastmod>2015-09-04T19:20:17-05:00</lastmod>
+  </url>
+  <url>
     <loc>http://jeneesquivel.github.io/blog/blog/2015/08/21/tenth-week-blog-post/</loc>
     <lastmod>2015-08-21T20:50:15-05:00</lastmod>
   </url>
@@ -45,5 +49,8 @@
   </url>
   <url>
     <loc>http://jeneesquivel.github.io/blog/</loc>
+  </url>
+  <url>
+    <loc>http://jeneesquivel.github.io/blog/posts/2/</loc>
   </url>
 </urlset>
